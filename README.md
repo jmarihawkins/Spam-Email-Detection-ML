@@ -42,6 +42,6 @@ In this project, we successfully developed and compared two machine learning mod
 - Logistic Regression, while simpler, provided good results but was less effective in capturing the intricate patterns present in the dataset.
 
 **Real-World Application:**
-- Beyond email spam detection, similar approaches can be applied to other text classification tasks. For example, this methodology can be used in sentiment analysis to classify customer reviews as positive or negative. By extracting relevant features from the text and training models, businesses can automate the analysis of customer feedback, leading to improved customer service and product development strategies.
+- Beyond email spam detection, similar approaches can be applied to credit card fraud detection. In this context, machine learning models can be trained to identify fraudulent transactions based on features such as transaction amount, time, location, and user behavior patterns. By accurately detecting fraudulent activities, financial institutions can protect their customers and reduce losses.
 
 Overall, this project demonstrates the importance of choosing the right model for specific tasks and highlights the effectiveness of ensemble methods like Random Forests in handling complex datasets.
